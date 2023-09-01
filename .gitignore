@@ -5,3 +5,5 @@
 *.png
 *.eps
 *.pkl
+iceotherm
+iceotherm/*
